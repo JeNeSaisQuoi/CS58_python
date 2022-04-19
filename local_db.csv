@@ -1,0 +1,11 @@
+id,genus,spec_epithet,size,qty,retail_price
+1,tulbaghia,violacea,1g,10,7.99
+2,punica,granatum,5g,5,15.99
+3,ligustrum ,texanum,1g,20,6.99
+4,agave,americana,1g,10,5.99
+5,callistemon,viminalis,1g,12,7.99
+6,agave,tequilana,1g,15,9.99
+7,aloe,vera,1g,45,4.99
+8,asparagus,densiflorus,1g,20,6.99
+9,olea,europaea,5g,5,29.99
+10,olea,europaea,1g,12,8.99
